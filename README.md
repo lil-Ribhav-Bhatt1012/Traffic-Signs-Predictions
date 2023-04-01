@@ -1,5 +1,3 @@
-![output](https://user-images.githubusercontent.com/77582313/229307853-8edaca19-ba63-4ef0-b0c1-0f865ef7333a.png)
-![output2](https://user-images.githubusercontent.com/77582313/229307854-911b51b4-db32-4128-91e0-0fd3809ec6c5.png)
 # Traffic-Signs-Predictions using image processing with Convolutional Neural Network
 So, I have made a project on this,Image classification is a task where the system takes an input image and classifies it with an appropriate label.
 
@@ -10,3 +8,5 @@ As technology advancement takes place there are new algorithms and neural networ
 A convolutional neural network is a class of deep learning which deals with processing image and video data by extracting features from them and build a neural network by assigning them weights and convolved them with a filter to classify and identify an image.
 
 CNN is a prior choice of every data scientist to deal with any Image or video processing data. Using the transfer learning model and modifying it with our layers is also easy.
+![output](https://user-images.githubusercontent.com/77582313/229307853-8edaca19-ba63-4ef0-b0c1-0f865ef7333a.png)
+![output2](https://user-images.githubusercontent.com/77582313/229307854-911b51b4-db32-4128-91e0-0fd3809ec6c5.png)
